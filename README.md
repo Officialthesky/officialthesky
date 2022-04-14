@@ -3,7 +3,6 @@
 - 🔭 A passionate Front End developer from India.
 - 👀 I’m love ...coding
 - 🌱 I’m currently learning React JS.
-- 📫 My Portfolio Link :[officialthesky](https://shravanmeena.netlify.app/)
 
 <!---
 officialthesky/officialthesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,32 +26,32 @@ You can click the Preview link to take a look at your changes.
 
 
 <details>
-<summary>DevHelp Box </summary>
+<summary>Youtube Clone</summary>
   
-  1. Live Demo: shravanmeena.github.io/devhelpbox/
-  2. Technology: Github
+  1. Live Demo: https://itsmyyoutube.netlify.app/
+  2. Technology: HTML, CSS, React, React-Router, Youtube Data API
  </details>
  
  <details>
-<summary>News Application In React Native </summary>
+<summary>Notion Clone </summary>
   
-  1. Live Demo: https://www.youtube.com/watch?v=lghOv6mlLzs 
-  2. Technology:  React Native, React-Navigation, NodeJs, Express
+  1. Live Demo: https://8qq97g.csb.app/
+  2. Technology:  HTML, CSS, React
  </details>
  
  <details>
-<summary>CV Maker </summary>
+<summary>Hubhopper Clone</summary>
   
-  1. Live Demo: https://www.cvmaker0799.netlify.app/
-  2. Technology: HTML, CSS,AntD, React, React-Router, Node, MongoDB, Express
+  1. Live Demo: https://hubhopper.netlify.app/
+  2. Technology: HTML, CSS,React
  </details>
  
   <details>
   
-<summary>Exam Preparation Notes,Books </summary>
+<summary>Quizap </summary>
   
-  1. Live Demo: https://www.examhint.netlify.app/
-  2. Technology: HTML, CSS, React, React-Router, Node, MongoDB, Express
+  1. Live Demo: https://d1j0ob.csb.app/
+  2. Technology: HTML, CSS, React
  </details>
  
 
