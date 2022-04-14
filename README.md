@@ -53,4 +53,6 @@ You can click the Preview link to take a look at your changes.
   2. Technology: HTML, CSS, React
  </details>
  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=officialthesky&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ 
 
