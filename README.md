@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
 
-<h1>My Portfolio is making</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
+- 👋 Hi, I’m Suraj Kumar
+- 🔭 A passionate Front End developer from India.
+- 👀 I’m love ...coding
+- 🌱 I’m currently learning React JS.
+- 📫 My Portfolio Link :[Shravanmeena](https://shravanmeena.netlify.app/)
