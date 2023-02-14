@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m Suraj Kumar
-- 🔭 A passionate Front End developer from India.
-- 🌱 I’m currently learning Redux.
+## 👋 Hi, I’m Suraj Kumar
+## 🔭 A passionate Front End developer from India.
+## 🌱 I’m currently learning Redux.
 
 <!---
 officialthesky/officialthesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
