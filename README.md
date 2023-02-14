@@ -11,16 +11,6 @@ You can click the Preview link to take a look at your changes.
 ## 💼 *Professional Experience*
 
 **Frontend Developer [Riggle](https://www.riggleapp.in/) -  Working on Admin Panel and Developed Users Panel and Landing Page from the scratch**
-![officialthesky's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialthesky&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialthesky
-)](https://github.com/officialthesky/github-readme-stats)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajthesky/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/officialthesky)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/officialthesky)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:surajkumaryadavvvv@gmail.com)
-
-
 
 # 🚀 Some Projects
 
@@ -47,9 +37,6 @@ You can click the Preview link to take a look at your changes.
  </details>
  
 
-
-
-
 ## ⚙️ *Tech Stack I am Familiar With*:
 
 <p align="center">
@@ -61,6 +48,15 @@ You can click the Preview link to take a look at your changes.
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
 <br/>
 </p>
+
+![officialthesky's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialthesky&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialthesky
+)](https://github.com/officialthesky/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajthesky/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/officialthesky)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/officialthesky)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:surajkumaryadavvvv@gmail.com)
 
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=officialthesky&theme=dark&hide_border=true)](https://git.io/streak-stats)
