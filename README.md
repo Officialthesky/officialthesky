@@ -7,6 +7,10 @@
 officialthesky/officialthesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 💼 *Professional Experience*
+
+**Frontend Developer [Riggle](https://www.riggleapp.in/) -  Working on Admin Panel and Developed Users Panel and Landing Page from the scratch**
 ![officialthesky's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialthesky&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialthesky
 )](https://github.com/officialthesky/github-readme-stats)
@@ -17,15 +21,6 @@ You can click the Preview link to take a look at your changes.
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:surajkumaryadavvvv@gmail.com)
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-## 💼 *Professional Experience*
-
-**Frontend Developer [Riggle](https://www.riggleapp.in/) -  Working on Admin Panel and Developed Users Panel and Landing Page from the scratch**
 
 # 🚀 Some Projects
 
